@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+table,
+td,
+th {
+  border: 1px solid #333;
+}
+ .table1, .table2, .table3, .table4{
+    width: 100%;
+    text-align: center;
+ }
